@@ -1,0 +1,10 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#submit{
+    color:rgb(0, 0, 0);
+    background-color: rgb(238, 135, 229);
+    -moz-border-radius:  5px; /* Firefox */
+    -webkit-border-radius:  5px; /* Safari 4 */
+    border-radius:  5px
+}
